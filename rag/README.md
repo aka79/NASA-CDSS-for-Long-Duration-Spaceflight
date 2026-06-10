@@ -1,1 +1,1 @@
-# RAG PLACEHOLDER
+# RAG Placeholder
