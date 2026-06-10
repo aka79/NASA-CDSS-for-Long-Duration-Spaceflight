@@ -8,7 +8,7 @@ The project aims to bring together researchers, engineers, clinicians, AI practi
 
 ## Vision
 
-Develop a modular, trustworthy, and human-centered CDSS architecture capable of supporting astronaut health monitoring, risk assessment, decision support, and mission planning during long-duration space missions.
+This repository serves as a coordination and early design space for the CDSS initiative, with governance-first scoping and modular evolution into dedicated layer-specific repositories over time. The goal is to develop a modular, trustworthy, and human-centered CDSS architecture capable of supporting astronaut health monitoring, risk assessment, decision support, and mission planning during long-duration space missions. 
 
 ## Initial Areas of Interest
 
@@ -70,7 +70,7 @@ Please feel free to open issues, propose ideas, contribute documentation, or par
 
 ## Current Status
 
-Project initiation and community formation phase.
+This is an early-stage coordination repository. As the work matures, individual layers may evolve into dedicated repositories maintained by contributors.
 
 We are currently seeking contributors interested in:
 
