@@ -1,1 +1,1 @@
-
+# Architecture placeholder
